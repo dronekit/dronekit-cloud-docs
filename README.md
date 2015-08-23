@@ -16,7 +16,7 @@ search: true
 
 # Introduction
 
-Welcome to DroneKit-Cloud, 3D Robotic's cloud API for drone management and control.
+Welcome to DroneKit-Cloud, 3D Robotics' cloud API for drone management and control.
 
 DroneKit-Cloud API v1 lets you store, share, and access vehicle and flight log information using simple REST APIs. We hope you will use it to build drone tracking web apps like [Droneshare](http://www.droneshare.com/), and as a source of useful data about worldwide drone usage.
 
