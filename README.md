@@ -45,9 +45,9 @@ In order to use the API you will need to [sign up for a free API key](https://cl
 
 This key must be included in all requests (expressed in the format `app_id.your_app_key`) and grants permission to:
 
-* read and update users,
-* create, update and read vehicles.
-* create, update and read missions (limited to 500 calls/month).
+* read and update users
+* create, update and read vehicles
+* create, update and read missions (limited to 500 calls/month)
 
 Requests that create/modify information on the service must also include a [DroneShare](http://www.droneshare.com/) user id and password (they will return HTTP 401 "You do not own this record" if no login details are provided). You can [create a free account on DroneShare here](http://www.droneshare.com/#create).
 
